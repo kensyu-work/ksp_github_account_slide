@@ -22,7 +22,7 @@ transition: slide-left
 - 下記のリンクからGitHubサイトにアクセス
   - https://github.co.jp/
 
-- GitHubサイトの左上の【サインアップ】をクリックします。
+- GitHubサイトの右上の【サインアップ】をクリックします。
 
 ![](/GitHub-TopPage.png)
 
