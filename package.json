@@ -1,0 +1,17 @@
+{
+  "name": "ksp_github_account_slide",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "build_github": "slidev build --base /ksp_github_account_slide"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.12",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-light-icons": "^1.0.2"
+  }
+}
