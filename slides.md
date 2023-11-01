@@ -6,7 +6,7 @@ fonts:
   serif: 'Lato, Noto Sans JP'
   
 layout: image-right
-image: '/GitHub-Logo.png'
+image: './GitHub-Logo.png'
 transition: slide-left
 ---
 
@@ -30,7 +30,7 @@ transition: slide-left
 ---
 layout: image-right
 transition: slide-left
-image: '/GitHub-ResistAccount.png'
+image: './GitHub-ResistAccount.png'
 ---
 
 # アカウント情報を入力
@@ -46,7 +46,7 @@ image: '/GitHub-ResistAccount.png'
 ---
 layout: image-right
 transition: slide-left
-image: '/GitHub-Mail.png'
+image: './GitHub-Mail.png'
 ---
 
 # 認証コード入力
