@@ -13,5 +13,5 @@ Learn more about Slidev on [documentations](https://sli.dev/).
 ## Embed in web page
 
 ```
-<iframe src="https://ksp-kitam.github.io/ksp_github_account_slide/" width="800" height="500" allow="fullscreen" allowfullscreen></iframe>
+<iframe src="https://ksp-slide-documents.github.io/ksp_github_account_slide/" width="800" height="500" allow="fullscreen" allowfullscreen></iframe>
 ```
