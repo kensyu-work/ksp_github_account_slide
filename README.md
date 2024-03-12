@@ -1,20 +1,10 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Githubアカウント登録手順
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
-
-## github page
+## github page（公開URL）
 
 https://kensyu-slide.github.io/ksp_github_account_slide
 
-## Embed in web page
+## Embed in web page（ページ埋め込み）
 
 ```
 <iframe src="https://kensyu-slide.github.io/ksp_github_account_slide" width="800" height="500" allow="fullscreen" allowfullscreen></iframe>
