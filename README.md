@@ -1,10 +1,10 @@
-# Githubアカウント登録手順
+# The process for registering a GitHub account 
 
-## github page（公開URL）
+## github page
 
 https://kensyu-slide.github.io/ksp_github_account_slide
 
-## Embed in web page（ページ埋め込み）
+## Embed in web page
 
 ```
 <iframe src="https://kensyu-slide.github.io/ksp_github_account_slide" width="800" height="500" allow="fullscreen" allowfullscreen></iframe>
